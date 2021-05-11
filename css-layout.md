@@ -21,17 +21,9 @@ width: 100px;
 width: 50%;
 width: 30rem;
 height: 200px;
-height: 10rem;
-<<<<<<< HEAD
-```
-
-Why would you not use a percentage measurement for height?
-
-=======
 height: 100vh;
 ```
 
->>>>>>> c507c900e7e60fb0bc587fd133b7e833e9faf849
 ---
 
 # Centering
@@ -163,9 +155,11 @@ flex-wrap: wrap; /* nicely wrap them from line to line as needed */
 The `justify-content` and `align-items` properties are set on the flex container and depend on the direction of the main axis.
 
 ### `justify-content`
+
 Arranges items along the main-axis, in the same direction as flex-direction
 
 ### `align-items`
+
 Arranges items along the cross-axis, perpendicular to flex-direction
 
 ---
