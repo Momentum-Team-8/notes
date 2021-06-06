@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+### Phase 1: Front End
+
 - [command line](command-line.md)
 - [git](git.md)
 - [HTML](html.md)
@@ -14,3 +16,7 @@
 - [Debugging in JS](debugging.md)
 - [JS Objects](js-objects.md)
 - [AJAX](ajax-http.md)
+
+### Phase 2: Back End
+
+- [Intro to Python](intro-python.md)
