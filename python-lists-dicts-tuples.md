@@ -91,7 +91,7 @@ You need brackets and a string as a key. Dot notation will not work like it does
 >>> length, width, height = (2, 4, 10)
 >>> length
 2
->> width
+>>> width
 4
 >>> height
 10
