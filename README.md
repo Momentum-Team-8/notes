@@ -20,3 +20,4 @@
 ### Phase 2: Back End
 
 - [Intro to Python](intro-python.md)
+- [Python lists, dictionaries, and tuples](python-lists-dicts-tuples.md)
