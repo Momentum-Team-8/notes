@@ -21,3 +21,4 @@
 
 - [Intro to Python](intro-python.md)
 - [Python lists, dictionaries, and tuples](python-lists-dicts-tuples.md)
+- [A Tour of Django](django-tour.md)
