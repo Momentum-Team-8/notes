@@ -23,3 +23,4 @@
 - [Python lists, dictionaries, and tuples](python-lists-dicts-tuples.md)
 - [A Tour of Django](django-tour.md)
 - [Django Diagram](django-diagram.md)
+- [Many-to-many Diagram](many-to-many.md)
