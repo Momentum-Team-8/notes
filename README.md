@@ -24,3 +24,4 @@
 - [A Tour of Django](django-tour.md)
 - [Django Diagram](django-diagram.md)
 - [Many-to-many Diagram](many-to-many.md)
+- [Queries CheatSheet](django-queries.md)
