@@ -112,5 +112,7 @@ When you want derived information for each individual item, like the number of t
 ```py
 recipe = Recipe.objects.get(id=4)
 recipe.favorited_by.count() # you could do this but there is a better way
- Recipe.objects.annotate(times_favorited=Count('favorited_by', distinct=True)).first().times_favorited
+Recipe.objects.annotate(
+    times_favorited=Count("favorited_by", distinct=True)
+).first().times_favorited
 ```
